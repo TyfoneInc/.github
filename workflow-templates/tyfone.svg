@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="28.000000pt" height="28.000000pt" viewBox="-3 -3 34 34" preserveAspectRatio="xMidYMid meet"><g id="deeditor_bgCarrier" stroke-width="0">
+  <rect id="dee_c_e" x="-3" y="-3" width="34" height="34" rx="38.4" fill="#e0dbe0" strokewidth="0"/>
+</g>
+
+<g transform="translate(0.000000,28.000000) scale(0.100000,-0.100000)" fill="#e91e1e" stroke="none">
+<path d="M12 268 c-17 -17 -17 -239 0 -256 8 -8 46 -12 105 -12 93 0 93 0 93 25 0 24 -2 25 -66 25 -74 0 -104 12 -104 41 0 13 4 18 11 13 7 -4 1 12 -11 35 -25 43 -25 41 7 129 6 15 -19 16 -35 0z" fill="#e91e1e"/>
+<path d="M70 253 l0 -28 76 0 c63 0 78 -3 90 -19 18 -25 18 -36 -1 -36 -13 0 -12 -6 5 -40 19 -37 19 -41 4 -80 -18 -44 -13 -60 14 -44 14 9 17 31 20 129 2 78 -1 122 -9 131 -8 10 -37 14 -105 14 l-94 0 0 -27z" fill="#e91e1e"/>
+<path d="M70 140 l0 -40 70 0 70 0 0 40 0 40 -70 0 -70 0 0 -40z" fill="#e91e1e"/>
+</g>
+</svg>
