@@ -1,7 +1,7 @@
 {
     "name": "Tyfone Sample Workflow",
     "description": "Tyfone Sample CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "tyfone.png",
     "categories": [
         "Go"
     ],
